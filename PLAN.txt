@@ -1,0 +1,28 @@
+Authentication ORCID, Google, Facebook
+
+Import SKOS, import csv, SKOS API to interface, pick target.
+
+Export SKOS, export suggestions
+
+Groups, permissions, locking
+
+Supporto multiple thesauri. (create new thesauri, grand permissions, overview).
+
+Keep track of who is doing what? (terms you have changed and when)
+
+
+
+Decent graphics.
+
+Pages:
+Tree view.
+
+Home, personal page.
+
+
+
+
+
+
+
+
